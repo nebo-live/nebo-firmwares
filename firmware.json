@@ -26,5 +26,12 @@
         "host": "raw.githubusercontent.com",
         "port": 443,
         "bin": "/nebo-live/nebo-firmwares/main/nebo-air-680-4.bin"
+    },
+    {
+        "type": "nebo-air-bme680",
+        "version": 9999,
+        "host": "raw.githubusercontent.com",
+        "port": 443,
+        "bin": "/nebo-live/nebo-firmwares/main/nebo-air-680-1.bin"
     }
 ]
