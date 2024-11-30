@@ -1,45 +1,10 @@
 [
     {
         "type": "esp32-fota-https",
-        "version": 2,
-        "host": "raw.githubusercontent.com",
-        "port": 443,
-        "bin": "/nebo-live/nebo-firmwares/main/nebo-air-680-2.bin"
-    },
-    {
-        "type": "nebo-air-bme680",
-        "version": 2,
-        "host": "raw.githubusercontent.com",
-        "port": 443,
-        "bin": "/nebo-live/nebo-firmwares/main/nebo-air-680-2.bin"
-    },
-    {
-        "type": "nebo-air-bme680",
-        "version": 3,
-        "host": "raw.githubusercontent.com",
-        "port": 443,
-        "bin": "/nebo-live/nebo-firmwares/main/nebo-air-680-3.bin"
-    },
-    {
-        "type": "nebo-air-bme680",
         "version": 4,
         "host": "raw.githubusercontent.com",
         "port": 443,
         "bin": "/nebo-live/nebo-firmwares/main/nebo-air-680-4.bin"
-    },
-    {
-        "type": "esp32-fota-https",
-        "version": 4,
-        "host": "raw.githubusercontent.com",
-        "port": 443,
-        "bin": "/nebo-live/nebo-firmwares/main/nebo-air-680-4.bin"
-    },
-    {
-        "type": "nebo-air-bme680",
-        "version": 5,
-        "host": "raw.githubusercontent.com",
-        "port": 443,
-        "bin": "/nebo-live/nebo-firmwares/main/nebo-air-680-5.bin"
     },
     {
         "type": "nebo-air-bme680",
