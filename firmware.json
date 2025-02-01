@@ -8,9 +8,9 @@
     },
     {
         "type": "nebo-air-bme680",
-        "version": 8,
+        "version": 9,
         "host": "raw.githubusercontent.com",
         "port": 443,
-        "bin": "/nebo-live/nebo-firmwares/main/nebo-air-680-8.bin"
+        "bin": "/nebo-live/nebo-firmwares/main/nebo-air-680-9.bin"
     }
 ]
